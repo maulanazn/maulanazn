@@ -2,6 +2,14 @@
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
 </div>
 
+## Hello Everyone 👋
+#### I am Maulana Zulkifli, call me maulana, here is my short description
+* I'm working most in Back End
+* Love to designing and drawing on paper
+* My favorite theme of designing is nature and night sky
+* Front End as a side quest
+* Podman is my first choice for containerizing app, even though it's connected with docker hub and dockerfile
+
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/maulanazulkifli19">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -35,7 +43,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora" **alt="Fedora" width="40" height="40"/>
 </div>
-
----
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maulanazn&theme=dark&background=000000)](https://git.io/streak-stats)
