@@ -49,5 +49,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" **alt="NextJS" with="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" **alt="CSS3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" **alt="TailwindCSS" width="75" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="SvelteJS" **alt="SvelteJS" width="40" height="40"/>
 </div>
