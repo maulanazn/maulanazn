@@ -5,10 +5,10 @@
 ## Hello Everyone 👋
 #### I am Maulana Zulkifli, call me maulana, here is my short description
 * I'm working most in Back End
-* Love to designing and drawing on paper
+* Love to designing by drawing on paper and designing website with requested character
 * My favorite theme of designing is nature and night sky
-* Front End as a side quest
-* Podman is my first choice for containerizing app, even though it's connected with docker hub and dockerfile
+* Doing Fullstack also
+* Docker is my first choice for containerizing app
 
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/maulanazulkifli19">
