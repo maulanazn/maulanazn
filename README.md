@@ -4,11 +4,9 @@
 
 ## Hello Everyone 👋
 #### I am Maulana Zulkifli, call me maulana, here is my short description
-* I'm working most in Back End
-* Love to designing by drawing on paper and designing website with requested character
-* My favorite theme of designing is nature and night sky
-* Doing Fullstack also
-* Docker is my first choice for containerizing app
+* I like to working with technology
+* I write an backend, frontend, and mobile applications
+* I'm also a writer, I write almost 10 creative articles in https://maulanazn.medium.com
 
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/maulanazulkifli19">
